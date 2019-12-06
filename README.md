@@ -1,2 +1,2 @@
-# basic-calculator
+# simple-calculator
 MADE BY joodh999
